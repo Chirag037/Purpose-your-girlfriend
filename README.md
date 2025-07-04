@@ -1,73 +1,57 @@
-The Romantic Proposal Website is a beautiful, interactive one-page web experience that combines modern design with heartfelt emotion. It’s perfect for proposing to someone special — or just showing how much you care in a fun and unique way.
+# 💍 Romantic Proposal Website
 
-💕 Features
-🎨 Visual Design
-🌈 Elegant Gradient Background — Dreamy purple-blue hues.
+> A magical, playful, and heartfelt single-page web app to help you propose in the most unforgettable way 💖
 
-💎 Glassmorphism Container — Translucent card with blur effect.
+![Demo Screenshot](demo.png) <!-- Add a screenshot of the app -->
 
-❤️ Floating Heart Emojis — Romantic, animated hearts float across the screen.
+---
 
-✍️ Romantic Typography — Classy serif fonts with soft shadows.
+## 🌟 Overview
 
-📱 Responsive Design — Works beautifully on all screen sizes.
+The **Romantic Proposal Website** is a fully responsive, self-contained HTML web page designed to create an enchanting moment. Whether you're planning to pop the question, celebrate an anniversary, or surprise your partner, this page blends elegance and fun with interactive features and animations.
 
-✨ Interactive Elements
-💬 Custom Romantic Message
+---
 
-💍 Big Question — “Will You Marry Me? 💍”
+## 🎨 Features
 
-✔️ YES Button — Triggers a celebratory animation.
+### 💕 Visual Design
+- 🌈 Elegant purple-blue gradient background
+- 💎 Glassmorphism container with blur
+- ❤️ Animated floating heart emojis
+- ✍️ Serif romantic fonts with soft shadows
+- 📱 Responsive design for mobile, tablet, and desktop
 
-❌ "Not Yet" Button — Playfully avoids the cursor:
+### ✨ Interactivity
+- 💬 Customizable romantic message
+- 💍 Pulsing “**Will You Marry Me? 💍**” text
+- ✔️ YES! button: triggers celebration
+- ❌ “Not Yet” button: dodges cursor, changes text, resets after 3s
 
-Moves randomly on hover
+### 🎉 Celebrations
+- 🎇 Full-screen sparkle animation
+- 💍 Spinning diamond ring emoji
+- 🎊 “**She Said Yes! 🎉**” message with follow-up
+- 🪩 Smooth bounce-in animation
 
-Shows funny messages like:
+---
 
-“Nice try! 😏”
+## 🛠 Technical Info
 
-“Nope! 😄”
+- ✅ 100% HTML + CSS + JavaScript (no external libraries)
+- ⚙️ Single-file or multi-file structure (your choice)
+- 🌐 Works on all modern browsers
+- 🚀 Optimized animations for performance
 
-“Keep trying! 💕”
+---
 
-Auto resets after 3 seconds
+## 🧩 Customization
 
-🎉 Celebration Animation
-🎇 Full-screen sparkle overlay
+To personalize your proposal:
 
-💍 Spinning diamond ring emoji
+- 💬 Change the message in the HTML
+- 🎨 Adjust the colors in CSS
+- 📝 Edit button texts and animations in JS
+- 🤣 Add inside jokes, names, or special dates
 
-🎊 “She Said Yes! 🎉” message with romantic follow-up
-
-🕺 Smooth bounce animation for added delight
-
-🧚‍♂️ Animations & Effects
-🌠 Fade-in on page load
-
-💓 Heartbeat animation at top
-
-🎈 Hover lift & shadow on buttons
-
-🌟 Random sparkles and floating hearts
-
-🛠 Technical Highlights
-✅ Single HTML File — No external dependencies
-
-⚙️ Pure HTML + CSS + JavaScript
-
-💨 Optimized for smooth animation performance
-
-🌐 Works in all modern browsers
-
-🎯 Perfect For
-💍 Marriage Proposals
-
-🎉 Anniversaries
-
-❤️ Valentine's Day
-
-🌍 Long-Distance Relationships
-
-🎁 Unique Digital Gifts
+---
 
