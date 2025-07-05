@@ -2,8 +2,6 @@
 
 > A magical, playful, and heartfelt single-page web app to help you propose in the most unforgettable way 💖
 
-![Demo Screenshot](demo.png) <!-- Add a screenshot of the app -->
-
 ---
 
 ## 🌟 Overview
