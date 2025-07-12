@@ -13,7 +13,7 @@ The **Romantic Proposal Website** is a fully responsive, self-contained HTML web
 ## 🎨 Features
 
 ### 💕 Visual Design
-- 🌈 Elegant purple-blue gradient background
+- 🌈 Elegant purple-blue gradient background  
 - 💎 Glassmorphism container with blur
 - ❤️ Animated floating heart emojis
 - ✍️ Serif romantic fonts with soft shadows
